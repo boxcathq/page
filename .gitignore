@@ -1,0 +1,18 @@
+# Claude / 작업 노트 (로컬 전용)
+CLAUDE.md
+Obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 로그/임시
+*.log
+.tmp/
